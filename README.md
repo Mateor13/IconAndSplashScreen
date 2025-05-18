@@ -3,7 +3,7 @@
 **👤 Autor:** Mateo Torres  
 **🛠️ Proyecto:** Galería móvil (Ionic + Angular)
 
-[📦 Descargar APK](https://epnecuador-my.sharepoint.com/:u:/g/personal/mateo_torres_epn_edu_ec/ESLQsMQufaZMvEVOzI9X9sEBCzFzb_JpPel9u9yRGDeGgA?e=X3IV6g)
+[📦 Descargar APK](https://drive.google.com/uc?export=download&id=1qzp-oA2lDp2igMW7kqBqXZoNHFoGDgMK)
 
 ---
 
