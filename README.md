@@ -3,7 +3,8 @@
 **👤 Autor:** Mateo Torres  
 **🛠️ Proyecto:** Galería móvil (Ionic + Angular)
 
-[📦 Descargar APK](https://drive.google.com/uc?export=download&id=1qzp-oA2lDp2igMW7kqBqXZoNHFoGDgMK)
+[📦 Descargar APK](https://drive.google.com/uc?export=download&id=1ZJnOm8zR7ZPCp4G6qJ_RKv3R_1zIqrUX)
+> **Nota:** El link de descarga demora en cargarse
 
 ---
 
