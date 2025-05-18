@@ -26,6 +26,6 @@ Esta aplicación, desarrollada con **Ionic** y **Angular**, funciona como una ga
 ![splash](https://github.com/user-attachments/assets/163fc71a-1a93-4bc7-97f2-6289c2a16457)
 
 **Modo Oscuro:**  
-![splash dark](https://github.com/user-attachments/assets/cbe943c8-d3ef-4da5-b6ab-549307a0cce6)
+![splash dark](https://github.com/user-attachments/assets/f7393d34-1256-41d4-930a-f051fff10c40)
 
 ---
